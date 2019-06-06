@@ -1,4 +1,4 @@
-`Abstract Factory`__
+Abstract Factory
 ====================
 
 Purpose
