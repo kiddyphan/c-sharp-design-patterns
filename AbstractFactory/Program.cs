@@ -8,8 +8,8 @@ namespace Factory
         {
             Console.WriteLine("Hello World!");
 
-            var robot = EnemyFactory.makeEnemy("robot");
-            var ship = EnemyFactory.makeEnemy("ship");
+            var robot = EnemyFactory.makeEnemyRobot("Robot Boss");
+            var ship = EnemyFactory.makeEnemyShip("Ship Boss");
             
             robot.DealtDamage();
             robot.Move();
