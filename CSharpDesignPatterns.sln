@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleFactory", "SimpleFact
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethod", "FactoryMethod\FactoryMethod.csproj", "{3AE92C25-CAC5-4D4D-9652-027E24E7CDE8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "Builder\Builder.csproj", "{C4D417AA-554B-4CC9-B84E-A42746696E44}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{3AE92C25-CAC5-4D4D-9652-027E24E7CDE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3AE92C25-CAC5-4D4D-9652-027E24E7CDE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3AE92C25-CAC5-4D4D-9652-027E24E7CDE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4D417AA-554B-4CC9-B84E-A42746696E44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4D417AA-554B-4CC9-B84E-A42746696E44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4D417AA-554B-4CC9-B84E-A42746696E44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4D417AA-554B-4CC9-B84E-A42746696E44}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
