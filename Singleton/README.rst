@@ -1,7 +1,7 @@
 Singleton
 ====================
 
-**Beware of The Singleton. It is considered an anti-pattern because a Singleton**
+**Beware of The Singleton. It is considered an anti-pattern**
 
 Why?
 
