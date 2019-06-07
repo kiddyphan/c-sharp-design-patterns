@@ -1,9 +1,6 @@
 Factory Method
 ====================
 
-Purpose
--------
-
 EN
 
 It provides a way to delegate the instantiation logic to child classes.

@@ -1,8 +1,5 @@
-Simple Factory
+Builder
 ====================
-
-Purpose
--------
 
 EN
 
@@ -11,7 +8,7 @@ constructor pollution. Useful when there could be several flavors of an object. 
 
 VI
 
-Dành cho việc khởi tạo các phần khác nhau của một đối tượng mà hoá
+Dành cho việc khởi tạo các phần khác nhau của một đối tượng mà 
 không gây ra việc phức tạp hoá trong contructor
 
 VD: Một đối tượng Car nhưng lại có nhiều bộ phận khác nhau, nhiều loại Car khác nhau.Builder. 

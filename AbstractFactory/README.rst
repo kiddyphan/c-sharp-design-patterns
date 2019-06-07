@@ -1,9 +1,6 @@
 Abstract Factory
 ====================
 
-Purpose
--------
-
 EN
 
 To create series of related or dependent objects without specifying

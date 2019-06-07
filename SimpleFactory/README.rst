@@ -1,9 +1,6 @@
 Simple Factory
 ====================
 
-Purpose
--------
-
 EN
 
 Simple factory simply generates an instance for client without exposing 
