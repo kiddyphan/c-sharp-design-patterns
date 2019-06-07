@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "Builder\Builder.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype", "Prototype\Prototype.csproj", "{877A77A8-32BF-40D8-A176-EDE8CFF567E8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Singleton.csproj", "{4682D3DC-3D75-4B2F-A97C-EE9A8EE35747}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{877A77A8-32BF-40D8-A176-EDE8CFF567E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{877A77A8-32BF-40D8-A176-EDE8CFF567E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{877A77A8-32BF-40D8-A176-EDE8CFF567E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4682D3DC-3D75-4B2F-A97C-EE9A8EE35747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4682D3DC-3D75-4B2F-A97C-EE9A8EE35747}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4682D3DC-3D75-4B2F-A97C-EE9A8EE35747}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4682D3DC-3D75-4B2F-A97C-EE9A8EE35747}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
