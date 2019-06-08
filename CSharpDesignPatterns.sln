@@ -28,6 +28,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy", "Proxy\Proxy.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibility", "ChainOfResponsibility\ChainOfResponsibility.csproj", "{183DB211-3699-4389-81DA-0286FFC5C210}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Command", "Command\Command.csproj", "{A99383EA-3792-4E30-93EF-699CA530BB29}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -90,5 +92,9 @@ Global
 		{183DB211-3699-4389-81DA-0286FFC5C210}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{183DB211-3699-4389-81DA-0286FFC5C210}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{183DB211-3699-4389-81DA-0286FFC5C210}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A99383EA-3792-4E30-93EF-699CA530BB29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A99383EA-3792-4E30-93EF-699CA530BB29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A99383EA-3792-4E30-93EF-699CA530BB29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A99383EA-3792-4E30-93EF-699CA530BB29}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
