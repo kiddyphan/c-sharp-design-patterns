@@ -14,4 +14,4 @@ Tạo ra một Object Third Party để giúp kiểm soát sự tương tác gi�
 
 VD: Chúng ta có 2 users (Colleagues) muốn nhắn tin cho nhau. 
 Tin nhắn phải thông qua nhà mạng (Mediator) Mobi, Vina, Viettel. Ở đây các nhà mạng chỉ
-sẽ điều phối tin nhắn đến đúng địa 
+sẽ điều phối tin nhắn đến đúng địa chỉ.
