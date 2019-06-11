@@ -40,6 +40,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visitor", "Visitor\Visitor.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "Strategy\Strategy.csproj", "{47E1D8C1-5AE6-460B-979E-06B1D59F44FB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "State", "State\State.csproj", "{DCBB7921-283B-4FBD-B90D-2E0B1DA3EF01}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -126,5 +128,9 @@ Global
 		{47E1D8C1-5AE6-460B-979E-06B1D59F44FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47E1D8C1-5AE6-460B-979E-06B1D59F44FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47E1D8C1-5AE6-460B-979E-06B1D59F44FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCBB7921-283B-4FBD-B90D-2E0B1DA3EF01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCBB7921-283B-4FBD-B90D-2E0B1DA3EF01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCBB7921-283B-4FBD-B90D-2E0B1DA3EF01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCBB7921-283B-4FBD-B90D-2E0B1DA3EF01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
